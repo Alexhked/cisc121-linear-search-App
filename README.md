@@ -13,7 +13,7 @@ Highlight elements performs the job correctly when element is not found.
 Return False, and highlight return -1 when element is not found in our linear Search
 ![alt text](Assets/image-5.png)
 Handles invalid inputs;
-![alt text](Assets/image-6.png)
+![alt text](Assets/image7.png)
 Handles edge cases.
 Video:
 <video width="480" controls>
@@ -65,5 +65,6 @@ https://www.geeksforgeeks.org/python/sleep-in-python/
 
 overall, the code is mainly coded by me, with the defintion and concepts coming from CHATGPT help. The chat prompt is listed below; 
 https://chatgpt.com/share/6929125e-4554-8007-b0c6-3d0834141f1a
+
 
 
