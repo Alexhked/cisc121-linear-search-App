@@ -19,7 +19,8 @@ Video:
 <video width="480" controls>
     <source src ="Assets/Vid1.mp4" type="video/mp4">
 </video>
-[Click here to watch video](Assets/Vid1.mp4)
+
+click here to download vid [here](Assets/Vid1.mp4)
 
 ## Problem Breakdown & Computational Thinking (You can add a flowchart and write the)
 1. Decompostion:
@@ -64,4 +65,5 @@ https://www.geeksforgeeks.org/python/sleep-in-python/
 
 overall, the code is mainly coded by me, with the defintion and concepts coming from CHATGPT help. The chat prompt is listed below; 
 https://chatgpt.com/share/6929125e-4554-8007-b0c6-3d0834141f1a
+
 
